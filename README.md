@@ -1,9 +1,13 @@
-### Hi there 👋 I'm Diego
+### Hi there 👋 I'm Diego,
 
 I am a Front-end Developer who occasionally explores UI/UX design, always striving to produce high-quality websites.
 
 <h3>JavaScript</h3>
 <ul>
+  <li>
+    <a href="https://forkify-diego-1881.netlify.app/" target="_blank">forkify</a><br />
+    Recipe application with custom recipe uploads.
+  </li>
   <li>
     <a href="https://diego-1881.github.io/bankist/" target="_blank">bankist</a><br />
     A minimalist website for a fictional bank.
@@ -16,10 +20,6 @@ I am a Front-end Developer who occasionally explores UI/UX design, always strivi
     <a href="https://diego-1881.github.io/pig-game/" target="_blank">Pig Game</a><br />
     Two-player dice game.
   </li>
-  <!-- <li>
-    <a href="" target="_blank">forkify</a><br />
-    Recipe application with custom recipe uploads.
-  </li> -->
 </ul>
 
 <h3>HTML + CSS (Sass)</h3>
