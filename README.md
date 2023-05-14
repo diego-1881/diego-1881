@@ -5,39 +5,32 @@ I am a Senior Front-end Developer who occasionally explores UI/UX design, always
 <h3>JavaScript + Vue</h3>
 <ul>
   <li>
-    <a href="https://diego-1881.github.io/segel-team/dist/" target="_blank">Segel-Team</a><br />
-    Homepage for Segel-Team
+    <a href="https://diego-1881.github.io/segel-team/dist/" target="_blank">Segel-Team</a> — Homepage for Segel-Team
   </li>
 </ul>
 
 <h3>JavaScript</h3>
 <ul>
   <li>
-    <a href="https://forkify-diego-1881.netlify.app/" target="_blank">forkify</a><br />
-    Recipe application with custom recipe uploads.
+    <a href="https://forkify-diego-1881.netlify.app/" target="_blank">forkify</a> — Recipe application with custom recipe uploads.
   </li>
   <li>
-    <a href="https://diego-1881.github.io/bankist/" target="_blank">bankist</a><br />
-    A minimalist website for a fictional bank.
+    <a href="https://diego-1881.github.io/bankist/" target="_blank">bankist</a> — A minimalist website for a fictional bank.
   </li>
   <li>
-    <a href="https://diego-1881.github.io/whats-the-number/" target="_blank">What's the number?</a><br />
-    Retro design game. Guess the secret number between 1 and 20.
+    <a href="https://diego-1881.github.io/whats-the-number/" target="_blank">What's the number?</a> — Retro design game. Guess the secret number between 1 and 20.
   </li>
   <li>
-    <a href="https://diego-1881.github.io/pig-game/" target="_blank">Pig Game</a><br />
-    Two-player dice game.
+    <a href="https://diego-1881.github.io/pig-game/" target="_blank">Pig Game</a> — Two-player dice game.
   </li>
 </ul>
 
 <h3>HTML + CSS (Sass)</h3>
 <ul>
   <li>
-    <a href="https://diego-1881.github.io/creatio/" target="_blank">Creatio</a><br />
-    Static website for Creatio.
+    <a href="https://diego-1881.github.io/creatio/" target="_blank">Creatio</a> — Static website for Creatio.
   </li>
   <li>
-    <a href="https://diego-1881.github.io/mvd/" target="_blank">MVD</a><br />
-    Micro static website for MVD.
+    <a href="https://diego-1881.github.io/mvd/" target="_blank">MVD</a> — Micro static website for MVD.
   </li>
 </ul>
