@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm Diego,
 
-I am a Front-end Developer who occasionally explores UI/UX design, always striving to produce high-quality websites.
+I am a Senior Front-end Developer who occasionally explores UI/UX design, always striving to produce high-quality websites.
+
+<h3>JavaScript + Vue</h3>
+<ul>
+  <li>
+    <a href="https://diego-1881.github.io/segel-team/dist/" target="_blank">Segel-Team</a><br />
+    Homepage for Segel-Team
+  </li>
+</ul>
 
 <h3>JavaScript</h3>
 <ul>
