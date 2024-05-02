@@ -2,6 +2,13 @@
 
 I am a Senior Front-end Developer who occasionally explores UI/UX design, always striving to produce high-quality websites.
 
+<h3>ReactJS</h3>
+<ul>
+  <li>
+    <a href="https://diego-1881.github.io/reelrumble/" target="_blank">ReelRumble</a> — Discover, rate, and manage movies. (<i>useState, useEffect, custom hooks and API Fetch</i>).
+  </li>
+</ul>
+
 <h3>JavaScript + Vue</h3>
 <ul>
   <li>
