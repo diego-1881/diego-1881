@@ -5,7 +5,7 @@ I am a Senior Front-end Developer who occasionally explores UI/UX design, always
 <h3>ReactJS</h3>
 <ul>
   <li>
-    <a href="https://diego-1881.github.io/quiz-quest/" target="_blank">The Quiz Quest</a> — 15 questions to test your React mastery. (<i>useEffect and useReducer</i>).
+    <a href="https://diego-1881.github.io/quiz-quest/" target="_blank">The Quiz Quest</a> — 15 questions to test your React mastery. (<i>useEffect, useReducer and Context API</i>).
   </li>
   <li>
     <a href="https://diego-1881.github.io/reelrumble/" target="_blank">ReelRumble</a> — Discover, rate, and manage movies. (<i>useState, useEffect, custom hooks and API Fetch</i>).
